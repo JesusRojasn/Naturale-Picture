@@ -1,0 +1,10 @@
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.navbar {
+  background: cadetblue;
+  color: white;
+  font-size: 2em;
+}

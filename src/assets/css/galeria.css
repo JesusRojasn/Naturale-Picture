@@ -1,0 +1,25 @@
+a {
+  color: white;
+  color: white;
+  text-decoration: none;
+  padding-left: 1vw;
+  padding-right: 1vw;
+}
+
+.navbar {
+  display: flex;
+  justify-content: center;
+}
+
+.Card:hover {
+  box-shadow: 0px 0px 1px 1px black;
+}
+
+.galeria {
+  display: grid;
+  gap: 8px;
+}
+
+.grid-columns-5 {
+  grid-template-columns: repeat(5, 1fr);
+}
