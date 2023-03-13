@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Happy-Cake/static/css/main.1a303517.css",
-    "main.js": "/Happy-Cake/static/js/main.135f0d37.js",
-    "index.html": "/Happy-Cake/index.html",
-    "main.1a303517.css.map": "/Happy-Cake/static/css/main.1a303517.css.map",
-    "main.135f0d37.js.map": "/Happy-Cake/static/js/main.135f0d37.js.map"
+    "main.css": "/Naturale-Picture/static/css/main.1a303517.css",
+    "main.js": "/Naturale-Picture/static/js/main.135f0d37.js",
+    "index.html": "/Naturale-Picture/index.html",
+    "main.1a303517.css.map": "/Naturale-Picture/static/css/main.1a303517.css.map",
+    "main.135f0d37.js.map": "/Naturale-Picture/static/js/main.135f0d37.js.map"
   },
   "entrypoints": [
     "static/css/main.1a303517.css",
